@@ -1,2 +1,2 @@
 # netcat
-python netcat
+这是一个用python编写的简陋netcat...
